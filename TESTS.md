@@ -84,7 +84,7 @@ sudo -H pip3 install pytest
 - ## 18 Suma Dígitos
     ### Run command
     ```
-    pytest assignments/18Factorial
+    pytest assignments/01Factorial
     ```
 
 - ## 19 Pares en un Rango con función
@@ -138,7 +138,7 @@ sudo -H pip3 install pytest
 - ## 26 Conjetura ULAM
     ### Run command
     ```
-    pytest assignments/26ConjeturaUlam
+    pytest assignments/02ConjeturaUlam
     ```
 
 - ## 27 Multiplicación Rusa
@@ -150,6 +150,6 @@ sudo -H pip3 install pytest
 - ## 28 Secuencia Fibonacci
     ### Run command
     ```
-    pytest assignments/28Fibonacci
+    pytest assignments/03Fibonacci
     ```
     
